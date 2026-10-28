@@ -1,0 +1,47 @@
+{
+  "character_features": {
+    "subject": "ceramic teapot",
+    "proportions": "rounded body",
+    "pose": "not applicable",
+    "facial_features": "not applicable",
+    "clothing": "not applicable"
+  },
+  "scene_features": {
+    "setting": "minimal studio",
+    "environment": "linen backdrop, oak table",
+    "additional_details": "glazed ceramic surface, curved spout, bamboo handle, fitted lid, linen backdrop"
+  },
+  "color_palette": {
+    "dominant_colors": "ivory white, warm beige",
+    "saturation": "muted colors",
+    "contrast": "gentle contrast"
+  },
+  "lighting_and_atmosphere": {
+    "lighting": "soft window light",
+    "shadows": "soft cast shadow",
+    "atmosphere": "calm atmosphere"
+  },
+  "composition_and_perspective": {
+    "composition": "centered composition",
+    "arrangement": "single object",
+    "perspective": "eye level view",
+    "depth_of_field": "shallow depth of field",
+    "framing": "square composition"
+  },
+  "image_quality": {
+    "resolution": "fine detail",
+    "focus": "sharp focus",
+    "rendering_quality": "realistic surface texture"
+  },
+  "style_theme": {
+    "primary_style": "product photography",
+    "mood": "calm",
+    "theme": "ceramic still life",
+    "visual_vibe": "minimalism"
+  },
+  "typography_and_layout_potential": {
+    "aesthetic_category": "product editorial",
+    "text_space": "not applicable"
+  },
+  "prompt": "ceramic teapot, rounded body, glazed ceramic surface, curved spout, bamboo handle, fitted lid, minimal studio, linen backdrop, oak table, ivory white, warm beige, muted colors, gentle contrast, soft window light, soft cast shadow, calm atmosphere, centered composition, single object, eye level view, shallow depth of field, square composition, fine detail, sharp focus, realistic surface texture, product photography, minimalism,"
+}

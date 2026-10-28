@@ -1,0 +1,7 @@
+interface:
+  display_name: "图像提示词教授"
+  short_description: "图片反推与主题创作，输出英文提示词 JSON 和中文拆解表，并支持直接出图"
+  brand_color: "#7C3AED"
+  default_prompt: "使用 $image-prompt-professor 分析我提供的图片或主题，输出英文提示词 JSON 和中文拆解表；如果我明确要求生成图片，请直接出图。"
+policy:
+  allow_implicit_invocation: true
